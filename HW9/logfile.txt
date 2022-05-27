@@ -1,0 +1,60 @@
+5
+From ritterhall-bounces@sio.ucsd.edu Tue Apr  6 11:01:38 2021
+ Subject: confirm 0bb42e9d7add6c691a0afd5bb9a71d172769a198
+  Folder: spamFolder							   3681
+
+
+
+New message log:
+6
+From r-users-bounces@sio.ucsd.edu Tue Apr  6 11:06:14 2021
+ Subject: confirm 3d05a18bcc641d96c0125ab7ff2dd7edbf2fe3a7
+  Folder: spamFolder							   3631
+
+
+
+New message log:
+7
+From bsph_students-bounces@lists.southernct.edu Tue Apr  6 11:07:08 2021
+ Subject: confirm 0bf68dfb1f2052290dd584b3736fc22a8cabe0ef
+  Folder: spamFolder							   2915
+
+
+
+New message log:
+8
+From fto-bounces@lists.southernct.edu Tue Apr  6 11:08:00 2021
+ Subject: confirm 18948adcd636151d2b381295b69a65c2b2f510a8
+  Folder: spamFolder							   2783
+
+
+
+New message log:
+9
+From vawo-bounces@lists.southernct.edu Tue Apr  6 11:09:00 2021
+ Subject: confirm 896ce40cb866e745ef3ea9860d6272ef0221452f
+  Folder: spamFolder							   2757
+
+
+
+New message log:
+10
+From acm-announcements-bounces@lists.cs.columbia.edu Tue Apr  6 11:09:59 2021
+ Subject: confirm c0c4eaf7ca5a1dd1ea8959b0195797ad197d2666
+  Folder: spamFolder							   3264
+
+
+
+New message log:
+11
+From greek-life-bounces@lists.southernct.edu Tue Apr  6 11:25:35 2021
+ Subject: confirm 104affd19c61f4b1618cb89cc021e742363fa910
+  Folder: spamFolder							   2841
+
+
+
+New message log:
+12
+From fitness-m-bounces@lists.southernct.edu Tue Apr  6 12:01:08 2021
+ Subject: confirm 93ff3389d63a695777c9e194fdc062bcd2fb1cc9
+  Folder: spamFolder							   2874
